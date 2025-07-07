@@ -16,3 +16,4 @@ def median(n):
         return (n[mid - 1] + n[mid]) / 2
     else:
         return n[mid]
+    
