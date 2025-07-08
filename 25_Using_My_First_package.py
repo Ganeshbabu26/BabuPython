@@ -1,4 +1,4 @@
-import My_First_Package as b # type: ignore
+import My_First_Package as b
 
 a = [12,56,23,78,34,67]
 
