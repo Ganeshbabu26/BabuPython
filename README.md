@@ -52,7 +52,7 @@ python filename.py
 
 # BabuPython
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Ganeshbabu26/BabuPython)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Ganeshbabu26/BabuPython)](https://github.com/Ganeshbabu26/BabuPython/releases)
 
 A simple repo of Python practical programs.
 
