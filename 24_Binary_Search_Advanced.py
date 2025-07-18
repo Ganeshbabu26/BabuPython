@@ -15,6 +15,7 @@ def bs(arr, target, low, high):
         return bs(arr,target,mid+1,high)
     else:
         return mid, arr[mid], mid
+    
 arr = list(map(lambda x: x*x,range(101)))
 n = int(input("Enter a number to find: "))
 index, value, pos = bs(arr,n,0,len(arr)-1)
