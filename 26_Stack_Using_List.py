@@ -2,7 +2,7 @@ stack = []
 stack.append('a')
 stack.append('b')
 stack.append('c')
-print('Inial stack')
+print('Initial stack')
 print(stack)
 print('Elements poped from stack: ')
 print(stack.pop())
