@@ -50,5 +50,3 @@ def convert_number_to_words(n):
                 print("Please enter positive number")
 
 convert_number_to_words(n)
-
-
