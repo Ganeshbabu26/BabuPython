@@ -39,9 +39,9 @@ def convert_number_to_words(n):
                                 if number2 == 1:
                                         print(n1[number1],h,n2[number3].lower())
                                 else:
-                                        print(n1[number1],h,n3[number2-2],n1[number3].lower())
+                                        print(n1[number1],h,n3[number2-2].lower(),n1[number3].lower())
                 else:
-                        print("No results")
+                        pass
         elif n==1000:
                 print(n1[1],n4[0])
         elif len(str(n))>3:
