@@ -18,6 +18,8 @@
           "scrollbar-width: thin"
         ]
       }
-    ]
+    ],
+    "meta-viewport": "off",
+    "no-inline-styles": "off"
   }
 }
