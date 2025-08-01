@@ -1,3 +1,25 @@
+# 1.Addition
+print("1.Addition\n")
+a = [
+    [5,8,2],
+    [2,0,11],
+    [7,4,9]
+]
+b = [
+    [10,8,6],
+    [2,5,11],
+    [7,3,9]
+    ]
+
+for i in range(len(a)):
+    for j in range(len(b[0])):
+        c = a[i][j] + b[i][j]
+        print(f"{c:3}",end="   ")
+    print()
+
+
+# 2. Multiplication
+print("\n2. Multiplication\n")
 a = [[i+j*3+1 for i in range(3)] for j in range(3)]
 b = [[i+j*3+1 for i in range(3)] for j in range(3)]
 
