@@ -23,7 +23,7 @@ from  tkinter import *
 
 root = tk.Tk()
 root.title("Tkinter Label Example")
-root.geometry("300x100")
+root.geometry("800x500")
 
 label = tk.Label(root, text="Hello, Babu!")
 label.pack()
@@ -32,10 +32,11 @@ def click_me():
     label = tk.Label(root, text="Hello, Babu!")
     label.pack()    
 
-canvas = tk.Canvas(root, width=200, height=100)
+canvas = tk.Canvas(root, width=1000, height=1000)
 canvas.pack()
 canvas.create_rectangle(50, 20, 150, 100, fill="red")
-canvas.create_oval(150,300,150,100,fill="green")
+# canvas.create_rectangle(250, 200, 150, 100, fill="red")
+canvas.create_oval(255, 20, 150, 100,fill="green")
 
 btn = tk.Button(root, text="Click Me", command=click_me)
 btn.pack()
