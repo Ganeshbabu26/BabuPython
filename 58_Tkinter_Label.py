@@ -30,7 +30,7 @@ label.pack()
 def click_me():
     print("Button clicked!")
     label = tk.Label(root, text="Hello, Babu!")
-    label.pack()    
+    label.pack()
 
 canvas = tk.Canvas(root, width=1000, height=1000)
 canvas.pack()
