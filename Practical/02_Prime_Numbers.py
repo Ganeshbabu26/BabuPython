@@ -6,8 +6,7 @@ def isPrime(n):
             return False
     return True
 
-n = int(input("Enter a number: "))
+nums = list(map(int,input("Enter all numbers (Seperated by space): ").split()))
 
-for i in range(2,n):
-    if (isPrime(i)):
-        print(i)
+prime = [i for i in nums if isPrime(i)]
+print("Only prime in given list: ",prime)
