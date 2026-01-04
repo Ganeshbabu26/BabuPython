@@ -1,0 +1,24 @@
+
+with [1,8,6,2,5,4,11,22]
+i imagine that water container program, 
+
+iteration 1
+if we have hight 1 on one end and another end has hight 22, distance (which is width = 7)
+
+why we calculating min(height[left],height[right]) means, no matter the other end how hight is, if the other end is small, water must have filled with top level of small height, because it has no space to storage, if we try, it leaks, and top level is always the same height of (small height of the end)
+
+
+
+
+there are 9 balls are 2 balls drawn,
+
+so total outcome is (9x8) / (2x1) so 36
+
+both Red balls = 4x3 / 2x1 =  6
+both Green balls = 2x1  /  1x2  = 1
+both Blue balls = 3x2   /   1x2 = 3
+
+total both colors = 10
+
+so 36 - 10 = 26 is both different colors
+

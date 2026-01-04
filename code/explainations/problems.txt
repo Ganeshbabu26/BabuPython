@@ -1,0 +1,149 @@
+🥇 ARRAYS & STRINGS (18 problems)
+
+Two Sum
+
+Best Time to Buy and Sell Stock
+
+Contains Duplicate
+
+Product of Array Except Self ⭐
+
+Maximum Subarray (Kadane) ⭐
+
+Merge Intervals ⭐
+
+Rotate Array
+
+Move Zeroes
+
+Longest Substring Without Repeating Characters ⭐
+
+Longest Repeating Character Replacement
+
+Minimum Window Substring ⭐⭐⭐
+
+Valid Anagram
+
+Group Anagrams ⭐
+
+Encode and Decode Strings
+
+Container With Most Water ⭐
+
+Trapping Rain Water ⭐⭐⭐
+
+Subarray Sum Equals K ⭐
+
+Majority Element
+
+🥈 HASHMAP / SET (8 problems)
+
+Two Sum (hash version)
+
+Longest Consecutive Sequence ⭐
+
+First Unique Character
+
+Top K Frequent Elements ⭐
+
+Valid Sudoku
+
+Happy Number
+
+Isomorphic Strings
+
+Word Pattern
+
+🥉 LINKED LIST (8 problems)
+
+(You are almost DONE with this)
+
+Reverse Linked List
+
+Detect Cycle ⭐
+
+Find Cycle Start ⭐
+
+Merge Two Sorted Lists
+
+Reverse Nodes in K-Group ⭐⭐⭐
+
+Add Two Numbers ⭐
+
+LRU Cache ⭐⭐⭐⭐
+
+Intersection of Two Linked Lists
+
+🏅 STACK & QUEUE (7 problems)
+
+Valid Parentheses
+
+Min Stack
+
+Daily Temperatures ⭐
+
+Next Greater Element
+
+Sliding Window Maximum ⭐⭐⭐
+
+Largest Rectangle in Histogram ⭐⭐⭐
+
+Implement Queue using Stack
+
+🌳 TREES (9 problems)
+
+Maximum Depth of Binary Tree
+
+Invert Binary Tree
+
+Diameter of Binary Tree ⭐
+
+Validate BST
+
+Lowest Common Ancestor ⭐
+
+Binary Tree Level Order Traversal
+
+Path Sum
+
+Serialize & Deserialize Binary Tree ⭐⭐⭐
+
+Construct Tree from Inorder & Preorder
+
+🕸️ GRAPHS (7 problems)
+
+Number of Islands ⭐
+
+Clone Graph
+
+Course Schedule ⭐
+
+Course Schedule II
+
+Word Ladder ⭐⭐⭐
+
+Accounts Merge ⭐
+
+Rotting Oranges
+
+🧠 DYNAMIC PROGRAMMING (5 problems)
+
+Climbing Stairs
+
+House Robber ⭐
+
+Coin Change ⭐⭐⭐
+
+Longest Increasing Subsequence ⭐⭐⭐
+
+Edit Distance ⭐⭐⭐⭐
+
+🧠 HOW YOU SHOULD STUDY EACH PROBLEM (IMPORTANT)
+
+For every problem, ask yourself:
+
+1️⃣ Why brute force fails?
+2️⃣ Which pattern is this?
+3️⃣ What data structure helps?
+4️⃣ Can I reduce time complexity?
+5️⃣ What edge case breaks my code?
